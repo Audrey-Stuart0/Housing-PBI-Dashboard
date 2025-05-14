@@ -2,7 +2,7 @@
 
 A Power BI dashboard showing housing vacancies across the US.
 
-![Report Screenshot](dashboard_preview.png)
+![Report Screenshot](Vacant Units Dashboard Screenshot.png)
 
-📥 [Download full report (.pbix)](Vacan_Units_Dashboard.pbix)
+📥 [Download full report (.pbix)](Vacant_Units_Dashboard.pbix)
 
